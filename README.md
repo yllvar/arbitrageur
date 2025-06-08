@@ -1,6 +1,9 @@
 # BSC Flash Arbitrage Pro
 
-A professional frontend application for executing arbitrage trades between PancakeSwap and ApeSwap on Binance Smart Chain.
+Frontend application for executing arbitrage trades between PancakeSwap and ApeSwap on Binance Smart Chain.
+
+<img width="386" alt="Screenshot 2025-06-08 at 14 17 23" src="https://github.com/user-attachments/assets/b2b8dcf7-1a51-4bb0-ab1d-cbbe5c136c78" />
+
 
 ## Features
 
